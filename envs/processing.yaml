@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - bedtools  = v2.25.0
+  - bam.rmdup = version 0.2
+  - pmdtools = v0.60
+  - python = 2.7.18
+

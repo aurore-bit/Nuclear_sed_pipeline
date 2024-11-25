@@ -1,0 +1,8 @@
+# path to samples sheet (libID, probeset, seqrun, split_BAM_path, etc)
+samples_info: config/samples.csv
+
+#path to probeset sheet (probeset, path_to_ref, path_to_bed)
+probeset_info: config/probeset.csv
+
+#project folder
+project: output_v0
